@@ -29,10 +29,9 @@ public class User {
 	public void setUserName(String userName) {
 		System.err.println("aaa");
 		this.userName = userName;
-		System.err.println("1234");
-		System.err.println("1234");
-		System.err.println("1234");
-		System.err.println("1234热恶女"）;
+		System.err.println("12qewev34");
+		System.err.println("1234热恶女");
+	}
 
 	
 }
