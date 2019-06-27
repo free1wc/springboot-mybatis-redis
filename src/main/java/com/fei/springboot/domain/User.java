@@ -27,7 +27,12 @@ public class User {
 	}
 
 	public void setUserName(String userName) {
+		System.err.println("1234");
+		System.err.println("1234");
+		System.err.println("1234");
 		this.userName = userName;
+		System.err.println("1234");
+		System.err.println("1234");
 		System.err.println("1234");
 	}
 
